@@ -7,3 +7,11 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, foi elaborada 
  [Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 
 Minutos relevantes das 00:15 às 00:55
+
+Comportamentos esperados:
+
+Redutor Musical: tocar, pausar, selecionar Música
+
+Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
+
+Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
