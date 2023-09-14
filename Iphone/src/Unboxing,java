@@ -1,0 +1,20 @@
+public class Unboxing implements AparelhoTelefonico{
+
+    @Override
+    public void ligar(){
+
+        System.out.println("Fazer uma ligação");
+    }
+
+    @Override
+    public void atender(){
+
+        System.out.println("Atender uma ligação");
+    }
+
+    @Override
+    public void iniciarCorreioVoz(){
+        
+        System.out.println("Iniciar Correio de Voz");
+    }
+}
