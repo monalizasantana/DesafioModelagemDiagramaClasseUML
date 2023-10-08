@@ -1,4 +1,5 @@
 # Orientação a Objetos e UML: Diagramação de Classes do iPhone.
+Diagramação das classes e interfaces com a proposta de representar os papéis do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 Desafio feito no Santander Bootcamp 2023 - Fullstack Java+Angular Dio, instrutor Gleyson Sampaio.
 
